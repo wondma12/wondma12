@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Haymanot Wondmagegn
 
-💻 Web Developer 
-🌍 Based in Ethiopia  
+💻 Web Developer in Ethiopia  
 
 ---
 
