@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋, I'm Haymanot Wondmagegn
 
-<!--
-**wondma12/wondma12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer 
+🌍 Based in Ethiopia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on **Full Stack Web Applications**
+- 🌱 I’m currently learning **Advanced React & Backend Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **Scaling Fullstack Apps**
+- 💬 Ask me about **React, codeigniter Node.js, Express, MySQL pstgres**
+- 📫 How to reach me: **haymanotwondmagegn3@gmail.com**
+- ⚡ Fun fact: I love turning ideas into real-world applications 🚀
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript ,next
+- **Backend:** Node.js, Express.js , codeigniter
+- **Database:** MySQL ,Postgres 
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 📊 GitHub Stats
+![Haymanot's GitHub stats](https://github-readme-stats.vercel.app/api?username=wondma12&show_icons=true&theme=default)
+
+---
+
+### 🔗 Connect with Me
+- GitHub: https://github.com/wondma12  
+- LinkedIn: *(add your link here)*  
+
+---
+
+⭐️ *Thanks for visiting my profile!*
