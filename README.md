@@ -31,7 +31,7 @@
 
 ### 🔗 Connect with Me
 - GitHub: https://github.com/wondma12  
-- LinkedIn: *(add your link here)*  
+- LinkedIn: *(nkedin.com/in/haymanot-wondmagegn-b57502300/)*  
 
 ---
 
